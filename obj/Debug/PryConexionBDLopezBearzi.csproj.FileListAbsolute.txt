@@ -11,3 +11,16 @@ E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.csproj
 E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConex.EFE9AA61.Up2Date
 E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.exe
 E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.pdb
+E:\Escritorio\PryConexionLopezBearziBD\bin\Debug\PryConexionBDLopezBearzi.exe.config
+E:\Escritorio\PryConexionLopezBearziBD\bin\Debug\PryConexionBDLopezBearzi.exe
+E:\Escritorio\PryConexionLopezBearziBD\bin\Debug\PryConexionBDLopezBearzi.pdb
+E:\Escritorio\PryConexionLopezBearziBD\bin\Debug\System.Data.SqlClient.dll
+E:\Escritorio\PryConexionLopezBearziBD\bin\Debug\System.Data.SqlClient.xml
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.csproj.AssemblyReference.cache
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.FrmInicio.resources
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.Properties.Resources.resources
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.csproj.GenerateResource.cache
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.csproj.CoreCompileInputs.cache
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConex.EFE9AA61.Up2Date
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.exe
+E:\Escritorio\PryConexionLopezBearziBD\obj\Debug\PryConexionBDLopezBearzi.pdb
