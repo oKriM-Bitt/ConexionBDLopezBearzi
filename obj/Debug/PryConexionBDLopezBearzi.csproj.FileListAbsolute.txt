@@ -1,0 +1,13 @@
+E:\Escritorio\PryConexionBDLopezBearzi\bin\Debug\PryConexionBDLopezBearzi.exe.config
+E:\Escritorio\PryConexionBDLopezBearzi\bin\Debug\PryConexionBDLopezBearzi.exe
+E:\Escritorio\PryConexionBDLopezBearzi\bin\Debug\PryConexionBDLopezBearzi.pdb
+E:\Escritorio\PryConexionBDLopezBearzi\bin\Debug\System.Data.SqlClient.dll
+E:\Escritorio\PryConexionBDLopezBearzi\bin\Debug\System.Data.SqlClient.xml
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.csproj.AssemblyReference.cache
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.Form1.resources
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.Properties.Resources.resources
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.csproj.GenerateResource.cache
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.csproj.CoreCompileInputs.cache
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConex.EFE9AA61.Up2Date
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.exe
+E:\Escritorio\PryConexionBDLopezBearzi\obj\Debug\PryConexionBDLopezBearzi.pdb
