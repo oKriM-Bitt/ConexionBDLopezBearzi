@@ -44,9 +44,9 @@
             // 
             // BtnMostrar
             // 
-            this.BtnMostrar.Location = new System.Drawing.Point(533, 329);
+            this.BtnMostrar.Location = new System.Drawing.Point(388, 329);
             this.BtnMostrar.Name = "BtnMostrar";
-            this.BtnMostrar.Size = new System.Drawing.Size(135, 54);
+            this.BtnMostrar.Size = new System.Drawing.Size(280, 54);
             this.BtnMostrar.TabIndex = 1;
             this.BtnMostrar.Text = "Mostrar";
             this.BtnMostrar.UseVisualStyleBackColor = true;
